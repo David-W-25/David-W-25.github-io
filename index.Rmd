@@ -1,0 +1,28 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+This is a web about sicence.
+
+Sometimes I use [Google](https://www.google.com) to do research.
+
+This is my CPU.
+
+![](amd.png)
+This is an embedded html sentence:
+
+<img src = "amd.png" style = "width:75%"> 
+
+
+If want to learn more, visit [this page](about.html)
+
+
